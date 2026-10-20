@@ -41,7 +41,6 @@ Code quality is enforced via **Pest PHP**. The test suite focuses heavily on dom
 * **Feature Tests:** End-to-end testing of the JSON API payloads and HTTP status codes (201 Created, 422 Unprocessable Entity, etc.).
 
 ## 📚 API Documentation
-*An OpenAPI (Swagger) specification or Postman Collection is included in the `/docs` directory. Import the `HRMS-Postman-Collection.json` file to test the endpoints locally.*
 
 ### Core Endpoints
 * `POST /api/auth/login` - Issue Sanctum token.
